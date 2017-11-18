@@ -1,0 +1,3 @@
+Please run either: 
+	'make simple' to make a simple OpenMP matrix multiplication.
+	'make reduction' to make a reduction OpenMP matrix multiplication.
